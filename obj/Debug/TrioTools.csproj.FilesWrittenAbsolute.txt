@@ -1,0 +1,16 @@
+/Development/XamarinApps/TrioTools/TrioTools/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Development/XamarinApps/TrioTools/TrioTools/obj/Debug/TrioTools.TestPage.xaml
+/Development/XamarinApps/TrioTools/TrioTools/obj/Debug/TestPage.xaml.g.cs
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/TrioTools.dll.mdb
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/TrioTools.dll
+/Development/XamarinApps/TrioTools/TrioTools/obj/Debug/TrioTools.dll
+/Development/XamarinApps/TrioTools/TrioTools/obj/Debug/TrioTools.dll.mdb
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Xamarin.Forms.Core.dll
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Xamarin.Forms.Xaml.dll
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Motion.Mobile.CoreBLE.dll
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Motion.Mobile.CoreBLE.dll.mdb
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Newtonsoft.Json.dll
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Motion.Mobile.Utilities.dll
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/Motion.Mobile.Utilities.dll.mdb
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/PCLStorage.Abstractions.dll
+/Development/XamarinApps/TrioTools/TrioTools/bin/Debug/PCLStorage.dll
