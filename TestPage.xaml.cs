@@ -344,7 +344,9 @@ namespace XamTest
 				Debug.WriteLine ("adapter.StopScanningForDevices()");
 			} else {
 				devices.Clear();
-				adapter.StartScanningForDevices(forService);
+				List<Guid> serviceUuids = new List<Guid>();
+				serviceUuids.Add(forService);
+				adapter.StartScanningForDevices(serviceUuids);
 				Debug.WriteLine ("adapter.StartScanningForDevices("+forService+")");
 			}
 		}
